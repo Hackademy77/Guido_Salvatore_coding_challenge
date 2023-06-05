@@ -25,5 +25,15 @@ let list = [
       }
       }
      verify(nome)
+     /*function verify(name){
+      list.forEach((element)=>{
+        if (element.logged==true && element.firstName.toLowerCase()== name.toLowerCase()) {
+          alert('l utente è stato registrato')
+        } else{
+        alert('l utente non è stato registrato')
+      }
+      })
+     }
+     verify(nome)*/
         
      
